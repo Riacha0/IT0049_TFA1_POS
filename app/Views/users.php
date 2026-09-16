@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>User Accounts</title>
-    <link rel="stylesheet" href="<?= base_url('css/style.css') ?>">
+   <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
     <nav>
